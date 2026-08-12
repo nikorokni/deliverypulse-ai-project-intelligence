@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0f282f"/><stop offset="1" stop-color="#17434a"/></linearGradient><linearGradient id="a"><stop stop-color="#35c6a1"/><stop offset="1" stop-color="#87e1c8"/></linearGradient></defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/><circle cx="1090" cy="40" r="170" fill="none" stroke="#35c6a1" stroke-width="55" opacity=".08"/>
+  <g transform="translate(70 75)"><rect width="180" height="180" rx="35" fill="#173840" stroke="#31565c"/><path d="M32 113h28l18-57 30 94 24-67h28" fill="none" stroke="url(#a)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="32" cy="113" r="7" fill="#35c6a1"/><circle cx="160" cy="83" r="7" fill="#35c6a1"/></g>
+  <text x="300" y="100" fill="#72dbc0" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="6">AI PROJECT INTELLIGENCE</text>
+  <text x="300" y="169" fill="#fff" font-family="Arial,sans-serif" font-size="58" font-weight="800">DELIVERYPULSE</text>
+  <rect x="302" y="193" width="225" height="5" rx="3" fill="url(#a)"/>
+  <text x="300" y="249" fill="#c4d7d7" font-family="Arial,sans-serif" font-size="22">Release confidence · Sprint health · Capacity · Risk decisions</text>
+</svg>
